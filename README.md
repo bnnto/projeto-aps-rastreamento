@@ -3,12 +3,12 @@
 ![Status](https://img.shields.io/badge/status-EmDesenvolvimento-yellow)
 
 **Equipe:**
-- Anna Beatriz dos Santos Silva - [GitHub](https://github.com/Anninhaxs)
-- Bento Guilherme Gomes Oliveira - [GitHub](https://github.com/bnnto)
-- Bruno Ferreira de Andrade Lyra - [GitHub](https://github.com/BrunoFerreiraLyra)
-- João Victor Castelo Branco de Sena - [GitHub](https://github.com/joao0cb)
-- Lettycia Vitoria Melo de França - [GitHub](https://github.com/LettyciaDev)
-- Lorenna Meneses de Almeida - [GitHub](https://github.com/lorennam)
+- [Anna Beatriz dos Santos Silva](https://github.com/Anninhaxs)
+- [Bento Guilherme Gomes Oliveira](https://github.com/bnnto)
+- [Bruno Ferreira de Andrade Lyra](https://github.com/BrunoFerreiraLyra)
+- [João Victor Castelo Branco de Sena](https://github.com/joao0cb)
+- [Lettycia Vitoria Melo de França](https://github.com/LettyciaDev)
+- [Lorenna Meneses de Almeida](https://github.com/lorennam)
 
 ---
 # 🐾 Aplicação Web de Rastreamento de Animais de Rua
