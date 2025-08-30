@@ -27,9 +27,6 @@ Proteger e melhorar a qualidade de vida de animais de rua, oferecendo uma soluç
 - **Amplia o alcance das ONGs**, conectando-as com a comunidade para apadrinhamento e adoção.
 - **Facilita a localização** desses animais.
 
-## 🌍 Alinhamento com a ODS 15 – Vida Terrestre
-Nosso projeto está alinhado à **ODS 15 – Vida Terrestre**, da ONU, ao promover a proteção e o bem-estar de animais. Ele combate o abandono, melhorando a qualidade de vida de cães e gatos.
-
 ## 💡 Como Funciona?
 1. **Rastreamento**: Animais de rua recebem coleiras com rastreadores GPS.
 2. **Monitoramento**: A localização é exibida para a instituição em tempo real em um site acessível.
