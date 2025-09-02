@@ -38,6 +38,22 @@ Proteger e melhorar a qualidade de vida de animais de rua, oferecendo uma soluç
 - **Comunidade engajada** no apadrinhamento e adoção.
 - **Redução do abandono** e melhoria na qualidade de vida animal.
 
+##  📋 Papéis De Cada Integrante
+
+## 💻 Back-end:
+- **Bento Guilherme:** Lógica do servidor, processamento de dados de GPS, regras de negócio e segurança.
+- **João Victor:** Fluxo de adoção e apadrinhamento, sistema de notificações.
+- **Lettycia Vitória:** Conexão back-end/front-end via API, rastreamento, autenticação e integração.
+
+## 🎨 Front-end:
+
+- **Anna Beatriz:** Interface do mapa, localização em tempo real e interação do usuário.
+- **Lorenna Meneses:** Perfis dos animais, telas de apadrinhamento/adoção e dashboard da ONG.
+
+## 🗄️ Banco de dados:
+
+- **Bruno Lyra:** Modelagem, otimização e manutenção do banco de dados.
+  
 # Trello
 
 ### Quadro
