@@ -1,4 +1,4 @@
-# projeto-aps-RASTREAMENTO
+# Patas da Rua
 
 ![Status](https://img.shields.io/badge/status-EmDesenvolvimento-yellow)
 
@@ -38,42 +38,14 @@ Proteger e melhorar a qualidade de vida de animais de rua, oferecendo uma soluç
 - **Comunidade engajada** no apadrinhamento e adoção.
 - **Redução do abandono** e melhoria na qualidade de vida animal.
 
-##  📋 Papéis De Cada Integrante
-
-## 💻 Back-end:
-- **Bento Guilherme:** Lógica do servidor, processamento de dados de GPS, regras de negócio e segurança.
-- **João Victor:** Fluxo de adoção e apadrinhamento, sistema de notificações.
-- **Lettycia Vitória:** Conexão back-end/front-end via API, rastreamento, autenticação e integração.
-
-## 🎨 Front-end:
-
-- **Anna Beatriz:** Interface do mapa, localização em tempo real e interação do usuário.
-- **Lorenna Meneses:** Perfis dos animais, telas de apadrinhamento/adoção e dashboard da ONG.
-
-## 🗄️ Banco de dados:
-
-- **Bruno Lyra:** Modelagem, otimização e manutenção do banco de dados.
-  
 # Trello
 
 ### Quadro
 
-![glubglob](https://cdn.discordapp.com/attachments/1409207617154322520/1410416961460113469/Captura_de_tela_2025-08-27_210316.png?ex=68b0f0a7&is=68af9f27&hm=ae65179a5a52e7241e1b4e2cee1a985a9e7e8b648a3f440e203a00fec66fd1e5&)
+![quadro](./assets/QuadroTrello.png)
 
 ### Backlog
 
-<span>
-  <img src="https://media.discordapp.net/attachments/1409207617154322520/1410416961929744475/Captura_de_tela_2025-08-27_211242.png?ex=68b0f0a8&is=68af9f28&hm=4e27c89ae81ee3953d2ad90dae2965078ae1bd7572109c315be9a624eed50836&=&format=webp&quality=lossless&width=389&height=799" width="30%" style="margin-right:15px"/>
-</span>
-<span>
-  <img src="https://media.discordapp.net/attachments/1409207617154322520/1410416962164621342/Captura_de_tela_2025-08-27_211251.png?ex=68b0f0a8&is=68af9f28&hm=66b5d655e4a3d427b28f2def0a7c2fee7f383ee3b0e4d8f97bc2098d698cf1e3&=&format=webp&quality=lossless&width=380&height=800" width="30%"/>
-</span>
-
-<br/>
-
-<span>
-  <img src="https://cdn.discordapp.com/attachments/1409207617154322520/1410416962458226719/Captura_de_tela_2025-08-27_211300.png?ex=68b0f0a8&is=68af9f28&hm=7bc6c45bcfdb6c5afcfebfbcf80d5ae609749a740fdacf75bd9f1e43f5751a5b&" width="30%" style="margin-right:15px"/>
-</span>
-<span>
-  <img src="https://cdn.discordapp.com/attachments/1409207617154322520/1410416962730725398/Captura_de_tela_2025-08-27_211306.png?ex=68b0f0a8&is=68af9f28&hm=3f25569afd065da9486ede675b84c9029d5bf86cb97fa2477c732f2ebaae8b96" width="30%"/>
-</span>
+![backlog1](./assets/Backlog1.png)
+![Backlog2](./assets/Backlog2.png)
+![Backlog3](./assets/Backlog3.png)
