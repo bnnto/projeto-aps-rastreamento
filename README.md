@@ -1,4 +1,4 @@
-# Patas da Rua
+# Patas na Rua
 
 ![Status](https://img.shields.io/badge/status-EmDesenvolvimento-yellow)
 
