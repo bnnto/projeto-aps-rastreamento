@@ -31,7 +31,7 @@ Proteger e melhorar a qualidade de vida de animais de rua, oferecendo uma soluç
 1. **Rastreamento**: Animais de rua recebem coleiras com rastreadores GPS.
 2. **Monitoramento**: A localização é exibida para a instituição em tempo real em um site acessível.
 3. **Gestão de Cuidados**: ONGs acompanham os animais e organizam apadrinhamentos e adoções.
-4. **Adoção Facilitada**: Pessoas podem apadrinhar e adotar animais rastreados..
+4. **Adoção Facilitada**: Pessoas podem apadrinhar e adotar animais rastreados.
 
 ## 🐕‍🦺 Impacto Esperado
 - **Animais protegidos**, mesmo sem espaço nas ONGs.
