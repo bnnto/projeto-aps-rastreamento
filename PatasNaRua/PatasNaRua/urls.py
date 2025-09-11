@@ -6,7 +6,6 @@ from django.conf.urls.static import static
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('cadlog/', include('cadlog.urls')),
-    path('', include('app_initial.urls')),  # Adicione esta linha para incluir as URLs do app_initial
+    path('', include('app_initial.urls')),
+    path('', include('cadlog.urls')),
 ]
-

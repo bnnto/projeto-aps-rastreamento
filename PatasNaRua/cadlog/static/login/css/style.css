@@ -1,0 +1,59 @@
+body {
+  background-color: #00cfd4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.quadrado {
+  width: 500px;
+  height: 400px;
+  background-color: white;
+  border-radius: 20px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding-top: 20px;
+}
+
+.quadrado h2 {
+  color: black;
+  font-size: 30px;
+  font-weight: 610;
+  text-align: center;
+  letter-spacing: 1px;
+  margin-bottom: 40px;
+  text-shadow: 0 2px 4px rgb(0, 0, 0, 0.2);
+}
+
+.inserir-dado {
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.inserir-dado input {
+  width: 100%;
+  padding: 15px 20px;
+  background: rgb(224, 223, 223);
+  border: none;
+  outline: none;
+  border-radius: 15px;
+  font-size: 16px;
+  color: purple;
+  transition: all 0.3s ease;
+}
+
+.inserir-dado label {
+  position: absolute;
+  top: 50%;
+  left: 20px;
+  transform: translateY(-50%);
+  color: black;
+  font-size: 16px;
+  pointer-events: none;
+  transition: all 0.3s ease;
+}
