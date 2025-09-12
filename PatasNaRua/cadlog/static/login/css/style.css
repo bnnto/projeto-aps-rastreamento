@@ -18,42 +18,60 @@ body {
   align-items: center;
   justify-content: flex-start;
   padding-top: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 .quadrado h2 {
-  color: black;
+  color: #5a128a;
   font-size: 30px;
   font-weight: 610;
   text-align: center;
   letter-spacing: 1px;
   margin-bottom: 40px;
-  text-shadow: 0 2px 4px rgb(0, 0, 0, 0.2);
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .inserir-dado {
   position: relative;
   margin-bottom: 30px;
+  width: 90%;
 }
 
 .inserir-dado input {
   width: 100%;
-  padding: 15px 20px;
+  padding: 18px 22px;
   background: rgb(224, 223, 223);
   border: none;
   outline: none;
-  border-radius: 15px;
+  border-radius: 5px;
   font-size: 16px;
-  color: purple;
+  color: black;
   transition: all 0.3s ease;
 }
-
-.inserir-dado label {
-  position: absolute;
-  top: 50%;
-  left: 20px;
-  transform: translateY(-50%);
-  color: black;
-  font-size: 16px;
-  pointer-events: none;
+.botao-direita {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 10px;
+}
+.btn-login {
+  width: 70%;
+  padding: 13px;
+  background-color: #5a128a;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  border-radius: 15px;
+  letter-spacing: 1px;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
   transition: all 0.3s ease;
+  margin-top: 10px;
+}
+
+.btn-login:hover {
+  background-color: #3a0e58;
+  transform: scale(1.05);
 }
