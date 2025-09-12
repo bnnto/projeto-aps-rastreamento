@@ -7,6 +7,10 @@ body {
   margin: 0;
 }
 
+form{
+  width: 300px;
+}
+
 .quadrado {
   width: 500px;
   height: 400px;
@@ -35,11 +39,11 @@ body {
 .inserir-dado {
   position: relative;
   margin-bottom: 30px;
-  width: 90%;
+  width: 95%;
 }
 
 .inserir-dado input {
-  width: 100%;
+  width: 95%;
   padding: 18px 22px;
   background: rgb(224, 223, 223);
   border: none;
@@ -56,7 +60,7 @@ body {
   padding-right: 10px;
 }
 .btn-login {
-  width: 70%;
+  width: 95%;
   padding: 13px;
   background-color: #5a128a;
   color: white;
@@ -69,6 +73,7 @@ body {
   cursor: pointer;
   transition: all 0.3s ease;
   margin-top: 10px;
+  margin-left: 120px;
 }
 
 .btn-login:hover {
